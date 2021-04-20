@@ -14,5 +14,5 @@ Basic SQL.*
 5. **Courses:** 
 *Android Academy course (10.2020 - 02.2021)*
 6. **Education:** *Belarussian State University of Informatics and Radioelectronics*
-7. **Code examples:** https://github.com/fliker2309
+7. **Code examples:** [Fliker2309 (Evgenii) GitHub](http://github.com/fliker2309)
 8. **English:** *A2*
