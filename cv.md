@@ -6,8 +6,8 @@
 *I am here to gain new knowledge. To structure the existing ones. I would like to become a full-fledged junior programmer.*
 4. **Skills:**
 *Basic Java; 
-Basic Kotlin;
-Basic Android Studio;
+Strong Kotlin;
+String Android Studio;
 Basic Git; 
 Basic C++;
 Basic SQL.*
