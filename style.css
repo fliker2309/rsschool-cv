@@ -4,6 +4,7 @@ html {
 
 * {
   box-sizing: border-box;
+  background-color: #f1d4a8;
 }
 
 .nav-list {
@@ -64,6 +65,32 @@ html {
 
 .section {
   width: 50%;
+}
+
+.footer {
+  padding: 20px 0;
+
+}
+
+.footer-container {
+  margin-top: 20px;
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+}
+
+.footer-github-link {
+  width: 48px;
+  height: 48px;
+  padding-left: inherit;
+
+}
+
+
+.rss-logo {
+  width: 130px;
+  height: 50px;
+
 }
 
 @media (max-width: 768px) {
